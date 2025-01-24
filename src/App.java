@@ -1,3 +1,7 @@
+// Coded by Jacob Aaron Espinoza @ jacob.espinoza@malad.us
+// For CTE Software Development 2
+// Instructor: Mr. Gross
+
 // import scanner class
 import java.util.Scanner;
 
